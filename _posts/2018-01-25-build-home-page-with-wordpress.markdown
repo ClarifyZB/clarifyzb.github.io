@@ -5,10 +5,7 @@ subtitle:   基于WordPress的个人网站
 date:       2018-09-17
 author:     flyzy
 header-img: "img/post-bg-2018.jpg"
-tags:
-    - 建站
-    - WordPress
-    - 个人博客网站
+
 ---
 
 一步一步教你基于WordPress搭建自己的个人博客，WordPress作为成熟的CMS框架，美观，方便，插件多，更新频繁，非常适合个人博客与网站的搭建，适合新手，无需太多的代码基础。
