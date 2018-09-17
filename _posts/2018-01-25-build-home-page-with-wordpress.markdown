@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      手把手教你搭建自己的个人网站
+title:      澄清一些事实
 subtitle:   基于WordPress的个人网站
-date:       2018-01-25
+date:       2018-09-17
 author:     flyzy
 header-img: "img/post-bg-2018.jpg"
 tags:
