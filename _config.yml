@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: clarifyzb@gmail.com
 description: "~"
 keyword: "技术分享,科学上网,建站教程"
-url: "https://clarifyzb.github.io"              # your host, for absolute URL
+url: "https://clarifyzb_XXX.github.io"              # your host, for absolute URL
 baseurl: ""         # 例如, '/blog' 如果你的博客的路径是'host/blog'，默认是空
 
 
